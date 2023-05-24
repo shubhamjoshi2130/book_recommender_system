@@ -14,5 +14,5 @@ Notebooks to refer:-<br>
 
 Notebooks to refer:-<br>
 **Read This Read That:** Read_this_read_that_Apriori_Rules_based.ipynb<br>
-**Items having similar user ratings:** notebooks_for_model_training/Cosine_similarity_based_item_iteam_recommender_to_recommend_similar_items.ipynb
+**Items having similar user ratings:** notebooks_for_model_training/Cosine_similarity_based_item_iteam_recommender_to_recommend_similar_items.ipynb<br>
 **Books by same author and SQLLite data insert script:** data_creation_and_initialise_script.py
