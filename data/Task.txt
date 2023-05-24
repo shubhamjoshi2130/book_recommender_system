@@ -1,0 +1,5 @@
+Create SQL Lite DB with the files provided
+Use SQL to query data
+Use Python to create Reccomendation engine for books
+As a end result we want to enter in a prompt what Book or  Books I am fan of and I want to have books reccomended to me
+If you have time create few analysis regarding books. What is the most popular book, what books are favored together.. etc.
